@@ -1,0 +1,8 @@
+name: AuthBridge
+version: '${version}'
+
+main: org.astral.authBridge.AuthBridge
+api-version: '1.21'
+
+depend:
+  - AuthMe
